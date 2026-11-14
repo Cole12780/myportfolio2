@@ -1,0 +1,35 @@
+.body{background-image:url(prince.jpeg);
+     background-size:fill;
+    background-repeat:repeat;
+    background-color:#0F766E;
+}
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+p{
+    color:#B8D8D4;
+    
+    
+}
+h1,h2{
+    color:white;
+}
+.img{
+    width: 300px;
+    border-radius: 70%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.diva{
+    display:inline-block;
+    margin-left:200px;
+    vertical-align: top;
+    margin-top: 60px;
+
+}
+h3{
+    color:gold;
+    font-size: 25px;
+}
